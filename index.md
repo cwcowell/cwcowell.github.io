@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Notes on CCT
 
 ## Tagline
