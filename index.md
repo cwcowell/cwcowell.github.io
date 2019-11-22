@@ -2,40 +2,39 @@
 layout: default
 ---
 
-# Notes on CCT
+# Cowell Technical Training
 
-## Tagline
-
-Patient and painless technical training for non-technical people.
+*Patient and painless technical training for non-technical people.*
 
 
 ## Elevator pitch
 
 It’s hard to find good technical training for non-technical people. Training often goes too fast. It doesn’t adjust to the background knowledge of the students. And it tries to teach too much instead of concentrating on the important parts. Rose City Technical Training is different. Our mission is to introduce technical topics to non-technical audiences. Our approach is based on the Pareto Principle, which says that 80% of results come from 20% of effort. We concentrate on the first 20% of each subject we teach, since that’s often all our students will ever need to know. Result? Our training is approachable, confidence-inspiring, and highly relevant for students with little or no technical background.
 
+## Contact
+
+<code>hello@cowelltech.com</code>
+
+503-309-2716
+
 
 ## Services
 
 In short, I train non-technical or less-technical audiences in technical topics. Since this sort of training can take different forms, the first step is to work with you to figure out things like:
 
-+ Format
- + one-on-one
- + small group (up to 20 people)
-+ Location
-  + your workplace
-  + via video conference
-  + co-working space
-+ Topics (see a full list [here](#topics)
++ Format: one-on-one or small group (up to 20 people)
++ Location: your workplace, video conference, or co-working space
++ Topics (see a full list [here](#topics))
 
-### Sample use cases
+## Sample use cases
 
-+ A new technical writer with a strong journalism background but little experience with computers gets a headstart by learning Linux/macOS terminal commands, DITA, Oxygen, and Git.
-+ A non-programmer in Quality Assurance moves into a higher-paying test automation role by learning the basics of Java, object-oriented programming concepts, and Selenium.
-+ A hiring manager for a UI/UX team outsources the onboarding of a group of new hires by training them in Git, Jira, and the Agile/Scrum process.
-+ A dev tech lead increases her visibility within the company by learning presentation skills.
-+ A product owner reduces miscommunication and expensive rework by learning cutting-edge requirements gathering techniques with Cucumber, Gherkin, and Example Mapping.
-+ A documentation team prepares for their company's new APIs by learning about REST, `curl`, Postman, and REST API documentation best practices.
-+ A software sales manager reduces attrition and increases the effectiveness of his sales team by training them in presentation skills and the company's REST APIs.
++ A new **technical writer** with a strong journalism background but little experience with computers gets a headstart by learning **Linux/macOS terminal commands, DITA, Oxygen,** and **Git**.
++ A **manual tester** moves into a higher-paying test automation role by learning the basics of **Java, object-oriented programming concepts,** and **Selenium.**
++ A **hiring manager for a UI/UX team** outsources new hire onboarding by training them in **Git, Jira,** and the **Agile/Scrum** process.
++ A **dev tech lead** increases her visibility within the company by learning **presentation skills.**
++ A **product owner** reduces miscommunication and expensive rework by learning cutting-edge requirements gathering techniques with **Cucumber, Gherkin,** and **Example Mapping.**
++ A **documentation team** prepares for their company's new APIs by learning about **REST, `curl`, Postman,** and **REST API documentation** best practices.
++ A **software sales manager** reduces attrition and increases the effectiveness of his team by training them in **presentation skills** and the company's **REST APIs.**
 
 
 ## Approach
@@ -52,11 +51,11 @@ We focus on the 20% of each technology or process that the students will use mos
 
 ## Training topics
 
-These are the topics I've taught in the past. I'm happy to expand my repertoire, so if you're interested in training on a subject not listed here, please ask!
+These are the topics I've taught in the past. I'm always looking for ways to expand my training repertoire, so if you're interested in a technology, process, or language not listed here, please ask.
 
 The amount of time spent on each topic depends on how in-depth you need the training to be. The most relevant parts of many topics can be covered in one to three hours. 
 
-See [here](#approach.html) for more information on my philosophy of effective training, and how that affects training time.
+See [here](#approach.html) for more information on my philosophy of effective training and how that affects training time.
 
 + Programming
   + Introduction to **Java**
