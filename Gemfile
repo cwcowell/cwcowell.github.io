@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.0'
+gem 'jekyll'
+gem 'github-pages', '~> 202'

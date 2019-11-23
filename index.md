@@ -2,31 +2,28 @@
 layout: default
 ---
 
-# Cowell Technical Training
+It’s hard to find good technical training for non-technical people. Training often goes too fast. It doesn’t adjust to the background knowledge of the students. And it tries to teach too much instead of concentrating on the important parts. 
 
-*Patient and painless technical training for non-technical people.*
+I think there's a better approach. By focusing only on the core concepts within the topic, and by going at a pace suited for each individual student no matter what their technical background, I give my clients the confidence to apply their new skills the very next day. This style of training is approachable, confidence-inspiring, and highly relevant.
 
-
-## Elevator pitch
-
-It’s hard to find good technical training for non-technical people. Training often goes too fast. It doesn’t adjust to the background knowledge of the students. And it tries to teach too much instead of concentrating on the important parts. Rose City Technical Training is different. Our mission is to introduce technical topics to non-technical audiences. Our approach is based on the Pareto Principle, which says that 80% of results come from 20% of effort. We concentrate on the first 20% of each subject we teach, since that’s often all our students will ever need to know. Result? Our training is approachable, confidence-inspiring, and highly relevant for students with little or no technical background.
 
 ## Contact
 
-<code>hello@cowelltech.com</code>
-
-503-309-2716
+<b>Phone:</b> 503-309-2716
+<b>Email:</b> <code>hello@cowelltech.com</code><br/>
 
 
 ## Services
 
-In short, I train non-technical or less-technical audiences in technical topics. Since this sort of training can take different forms, the first step is to work with you to figure out things like:
+In short, I teach technical subjects to non-technical or less-technical audiences. Since this sort of training can take different forms, the first step is to work with you to figure out things like:
 
 + Format: one-on-one or small group (up to 20 people)
 + Location: your workplace, video conference, or co-working space
 + Topics (see a full list [here](#topics))
 
 ## Sample use cases
+
+These are just some of the ways Cowell Technical Training can accelerate your career, boost your confidence, or open new opportunities.
 
 + A new **technical writer** with a strong journalism background but little experience with computers gets a headstart by learning **Linux/macOS terminal commands, DITA, Oxygen,** and **Git**.
 + A **manual tester** moves into a higher-paying test automation role by learning the basics of **Java, object-oriented programming concepts,** and **Selenium.**
@@ -84,12 +81,16 @@ See [here](#approach.html) for more information on my philosophy of effective tr
 
 ## Testimonials
 
-+ Technical writer at Puppet
-+ Tara on courseware?
-+ Randy on Cucumber
++ Jane Doe, technical writer
+> Testimonial will go here, once I get it from KM.
 
++ Jane Doe, educational materials developer
+> Another testimonial will go here once I get it from TS.
 
-## About Me
++ John Doe, QA Director
+> Third testimonial goes here, once I get it from RP.
+
+## About Chris
 
 Technical training is the perfect blend of my two biggest interests: technology and teaching.
 
@@ -114,7 +115,7 @@ While working as a developer I've done one-on-one coaching, lectured to 150 peop
 
 Gently and patiently helping people understand new concepts and learn to do things they couldn't do yesterday is just about the most fun activity I can think of.
 
-### Education
+### Education & certifications
 
 + B.A. in computer science, Harvard
 + Ph.D. in philosophy, Berkeley
@@ -128,5 +129,10 @@ Gently and patiently helping people understand new concepts and learn to do thin
 + Pull-based vs. push-based
 
 ## Guarantee
+
+TBD
+
+
+## Giving back
 
 TBD

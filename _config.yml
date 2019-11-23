@@ -1,3 +1,9 @@
 ---
-title: 'Cowell Technical Training'
+title: 'Cowell<br/>Technical<br/>Training'
+#title: 'Cowell Technical Training'
+description: '<em><b><center>Patient, painless training<br/>for non-technical people</center></b></em>'
+logo: 'assets/img/logo.png'
 exclude: ['up_on_the_shelf/']
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-tactile
+
