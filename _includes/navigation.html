@@ -1,0 +1,19 @@
+<nav class="fixed-nav-bar">
+    <a href="/" {% if page.url=="/" %}style="color: red;" {% endif %}>Home</a>
+
+    <a href="/services.html" {% if page.url=="/services.html" %}style="color: red;" {% endif %}>Services</a>
+
+    <a href="/topics.html" {% if page.url=="/topics.html" %}style="color: red;" {% endif %}>Topics</a>
+
+    <a href="/approach.html" {% if page.url=="/approach.html" %}style="color: red;" {% endif %}>Approach</a>
+
+    <a href="/scenarios.html" {% if page.url=="/scenarios.html" %}style="color: red;" {% endif %}>Scenarios</a>
+
+    <a href="/pricing.html" {% if page.url=="/pricing.html" %}style="color: red;" {% endif %}>Pricing</a>
+
+    <a href="/testimonials.html" {% if page.url=="/testimonials.html" %}style="color: red;" {% endif %}>Testimonials</a>
+
+    <a href="/blog.html" {% if page.url=="/blog.html" %}style="color: red;" {% endif %}>Blog</a>
+
+    <a href="/about.html" {% if page.url=="/about.html" %}style="color: red;" {% endif %}>About</a>
+</nav>
