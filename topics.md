@@ -16,6 +16,7 @@ I'm always looking for ways to expand my training repertoire, so if you're inter
 + Introduction to **Python**
 + Introduction to **Ruby**
 + **Object-oriented** programming concepts
++ Introduction to **SQL**
 
 ### Quality Assurance
 
@@ -35,6 +36,7 @@ I'm always looking for ways to expand my training repertoire, so if you're inter
 + **REST concepts** using `curl` and Postman
 + Representing data with **JSON** and **YAML**
 + Introduction to **Docker**
++ Virtual machines with **VirtualBox** and **Vagrant**
 
 ### Processes
 
