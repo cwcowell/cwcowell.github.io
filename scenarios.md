@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Kinds of Client
+# Kinds of Clients
 
 If you're an **individual contributor**, use training to boost performance in your current role, prepare for a new role or responsibility, or move your career in a whole new direction.
 
@@ -16,9 +16,7 @@ If you have technical training needs not listed here, get in touch!
 
 # Sample Roles and Topics
 
-Here are some of the types of training that can be useful for different roles.
-
-| Role | Sample Training Topics |
+| ROLE | SAMPLE TRAINING TOPICS |
 | ----- | -----|
 | ***Writer*** | Prepare for a transition from non-technical writing to technical writing by learning **Linux/macOS terminal commands, DITA, Oxygen,** and **Git**. |
 | ***Manual Tester*** | Move into a higher-paying test automation role by learning the basics of **Java, object-oriented programming concepts,** and **Selenium.** |
