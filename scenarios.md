@@ -12,11 +12,9 @@ If you're a **student in a code camp or programming class**, personalized one-on
 
 If you have technical training needs not listed here, get in touch!
 
-<br/>
-
 # Sample Roles and Topics
 
-| ROLE | SAMPLE TRAINING TOPICS |
+| Role | Sample Training Topics |
 | ----- | -----|
 | ***Writer*** | Prepare for a transition from non-technical writing to technical writing by learning **Linux/macOS terminal commands, DITA, Oxygen,** and **Git**. |
 | ***Manual Tester*** | Move into a higher-paying test automation role by learning the basics of **Java, object-oriented programming concepts,** and **Selenium.** |

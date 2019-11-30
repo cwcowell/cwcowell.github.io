@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section {
-  width: 600px;
+  width: 580px;
 }
 
 .company-title {
@@ -74,7 +74,7 @@ section {
 
 .tagline {
   font-family: "Libre Franklin", sans-serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   margin-top: 18px;
   line-height: 1.2;
@@ -82,7 +82,16 @@ section {
 }
 
 .wrapper {
-  width: 1024px;
+  width: 900px;
+}
+
+#sample-roles-and-topics {
+  margin-top: 40px;
+}
+
+table thead tr th {
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 /*

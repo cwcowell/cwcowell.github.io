@@ -6,11 +6,11 @@ layout: default
 
 ### Corporate
 
-Most training is $100/hr per student.
+Most training is $100 per hour per student.
 
 ### Personal
 
-Most training is $50/hr per student.
+Most training is $50 per hour per student.
 
 ### Guarantee
 
