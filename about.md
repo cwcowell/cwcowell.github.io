@@ -7,7 +7,7 @@ layout: default
 Cowell Technical Training is a one-man operation: I design the curricula, create training materials, and lead all instruction.
 
 
-### Technical Background
+## Technical Background
 
 My interest with computers and programming started at age twelve, when I coded in BASIC and assembly and beta tested Apple II text adventures.
 
@@ -16,9 +16,9 @@ After studying computer science in college, I worked for eighteen years as a dev
 These days, I keep my brain limber by studying machine learning, neural networks, and functional programming.
 
 
-### Teaching Background
+## Teaching Background
 
-My love for teaching developed in middle school, when I taught BASIC programming to younger students and VisiCalc to their parents. 
+My love for teaching started in middle school, when I taught programming in Applesoft BASIC to younger students and VisiCalc to their parents.
 
 In philosophy graduate school I refined my teaching approach and presentation strategies by instructing hundreds of undergraduates in logic, writing, and philosophy.
 
@@ -29,7 +29,7 @@ During my career I've done one-on-one coaching, presented to 150 people, and cov
 Gently and patiently helping people understand new concepts and learn to do things they couldn't do yesterday is just about the most fun activity I can think of.
 
 
-### Education and Certifications
+## Education and Certifications
 
 + B.A. in computer science, Harvard
 + Ph.D. in philosophy, Berkeley
