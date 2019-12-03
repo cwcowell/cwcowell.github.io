@@ -1,12 +1,10 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
+  //@import "{{ site.theme }}";
 body {
   font-family: Merriweather, serif;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.8;
   padding: 10px;
 }
 
@@ -17,7 +15,7 @@ code, pre {
 }
 
 header, footer {
-    width: 440px;
+  width: 440px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -25,52 +23,49 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700
 }
 
-section {
-  width: 580px;
-}
-
 .company-title {
   font-family: "Libre Franklin", sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 1.1;
+  color: mediumblue;
 }
 
 .contact {
-  font-family: "Roboto Mono";
-  font-size: 11pt;
-  color: #333;
-  border-style: dotted;
-  padding: 14px;
-  margin-top: 40px;
-  margin-right: 180px;
+  font-family: "Roboto Mono", monospace;
+  font-size: 12pt;
+  //color: #333;
+  color: mediumblue;
 }
 
-.fixed-nav-bar {
-  position: fixed;
-  top: 0;
-  left: 498pt;
-  padding-top: 20px;
-  padding-bottom: 8px;
-  height: 40px;
-  width: 720px;
-  z-index: 9999;
-  background-color: white;
-}
-
-.fixed-nav-bar a {
+.nav-item {
   font-family: "Libre Franklin", sans-serif;
   font-size: 10pt;
   font-weight: 700;
   text-transform: capitalize;
-  margin-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 50px;
 }
 
-.main-text {
-  margin-top: 60px;
-}
+//.fixed-nav-bar {
+//  position: fixed;
+//  top: 0;
+//  left: 498pt;
+//  padding-top: 20px;
+//  padding-bottom: 8px;
+//  height: 40px;
+//  width: 720px;
+//  z-index: 9999;
+//  background-color: white;
+//}
+//
+//.fixed-nav-bar a {
+//  font-family: "Libre Franklin", sans-serif;
+//  font-size: 10pt;
+//  font-weight: 700;
+//  text-transform: capitalize;
+//  margin-right: 20px;
+//  margin-top: 10px;
+//  margin-bottom: 50px;
+//}
 
 .tagline {
   font-family: "Libre Franklin", sans-serif;
@@ -78,21 +73,21 @@ section {
   font-weight: 700;
   margin-top: 18px;
   line-height: 1.2;
-  color:#333
+  color: #333
 }
 
-.wrapper {
-  width: 900px;
-}
+//.wrapper {
+//  width: 900px;
+//}
 
 #sample-roles-and-topics {
   margin-top: 40px;
 }
 
-table thead tr th {
-  font-weight: 700;
-  text-transform: uppercase;
-}
+//table thead tr th {
+//  font-weight: 700;
+//  text-transform: uppercase;
+//}
 
 /*
 

@@ -14,23 +14,26 @@
     <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
 
-    <title>Hello, world!</title>
+    <!-- my custom CSS -->
+    <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+
+    <title>Cowell Technical Training</title>
 </head>
 
-<body>
+<!-- static top nav bar -->
 <div class="container">
     <div class="row">
         <div class="col">
-
-            <!-- static top nav bar -->
             <div class="container">
-                <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
-                    <button aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"
-                            class="navbar-toggler"
-                            data-target="#navbarNavAltMarkup" data-toggle="collapse" type="button">
+                <nav class="navbar fixed-top navbar-expand-lg navbar-light"
+                     style="background-color: lightgray;">
+                    <button class="navbar-toggler"
+                            data-target="#navbarNavAltMarkup"
+                            data-toggle="collapse"
+                            type="button">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="navbar-nav mr-auto">
+                    <div class="navbar-nav ml-auto">
                         <a class="nav-item nav-link" href="/">Home</a>
                         <a class="nav-item nav-link active" href="/services.html">Services</a>
                         <a class="nav-item nav-link" href="/topics.html">Topics</a>
@@ -45,12 +48,26 @@
             </div>
         </div>
     </div>
+</div>
 
+<body style="padding-top: 80px;">
+<div class="container">
     <div class="row">
         <div class="col-lg-4">
-            <h1>Cowell<br/>Technical<br/>Training</h1>
+            <p class="company-title">Cowell<br/>Technical<br/>Training</p>
             <img alt="Chris Cowell on a bench" src="assets/img/chris-on-bench-260px.jpg"/>
-            <h4>Painless technical training for less-technical people</h4>
+            <p class="tagline">Painless technical training
+                <br/>
+                for less-technical people</p>
+            <div class="card" style="width: 260px;">
+                <span class="border border-primary">
+                <div class="card-body contact">
+                    <img src="assets/icons/envelope.svg" width="20pt;"/>&nbsp;hello@cowelltech.com
+                    <br/>
+                    <img src="assets/icons/phone.svg" width="20pt;"/>&nbsp;503-309-2716
+                </div>
+                </span>
+            </div>
         </div>
         <div class="col-lg-8">
             {{content}}
