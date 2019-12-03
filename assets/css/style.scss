@@ -1,6 +1,6 @@
 ---
 ---
-  //@import "{{ site.theme }}";
+
 body {
   font-family: Merriweather, serif;
   font-size: 16px;
@@ -14,58 +14,29 @@ code, pre {
   color: #333;
 }
 
-header, footer {
-  width: 440px;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: "Libre Franklin", sans-serif;
-  font-weight: 700
+  font-weight: 700;
+  color: #007bff;
 }
 
 .company-title {
   font-family: "Libre Franklin", sans-serif;
-  font-size: 40px;
+  font-size: 40pt;
   font-weight: 700;
   line-height: 1.1;
-  color: mediumblue;
 }
 
 .contact {
   font-family: "Roboto Mono", monospace;
-  font-size: 12pt;
-  //color: #333;
-  color: mediumblue;
+  font-size: 11pt;
 }
 
 .nav-item {
   font-family: "Libre Franklin", sans-serif;
   font-size: 10pt;
   font-weight: 700;
-  text-transform: capitalize;
 }
-
-//.fixed-nav-bar {
-//  position: fixed;
-//  top: 0;
-//  left: 498pt;
-//  padding-top: 20px;
-//  padding-bottom: 8px;
-//  height: 40px;
-//  width: 720px;
-//  z-index: 9999;
-//  background-color: white;
-//}
-//
-//.fixed-nav-bar a {
-//  font-family: "Libre Franklin", sans-serif;
-//  font-size: 10pt;
-//  font-weight: 700;
-//  text-transform: capitalize;
-//  margin-right: 20px;
-//  margin-top: 10px;
-//  margin-bottom: 50px;
-//}
 
 .tagline {
   font-family: "Libre Franklin", sans-serif;
@@ -76,12 +47,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #333
 }
 
-//.wrapper {
-//  width: 900px;
-//}
-
 #sample-roles-and-topics {
   margin-top: 40px;
+}
+
+#teaching-background {
+  margin-top: 30px;
 }
 
 //table thead tr th {
@@ -89,8 +60,8 @@ h1, h2, h3, h4, h5, h6 {
 //  text-transform: uppercase;
 //}
 
-/*
 
+/*
 body {
   background-color: #fff;
   padding:50px;
