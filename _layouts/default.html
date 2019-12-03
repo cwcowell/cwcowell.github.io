@@ -11,9 +11,9 @@
 
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Proza+Libre:400&display=swap" rel="stylesheet">
+    
     <!-- my custom CSS -->
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
 
@@ -33,15 +33,15 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-nav ml-auto">
-                    <a class="nav-item nav-link" href="/">Home</a>
-                    <a class="nav-item nav-link active" href="/services.html">Services</a>
-                    <a class="nav-item nav-link" href="/topics.html">Topics</a>
-                    <a class="nav-item nav-link" href="/approach.html">Approach</a>
-                    <a class="nav-item nav-link" href="/scenarios.html">Scenarios</a>
-                    <a class="nav-item nav-link" href="/pricing.html">Pricing</a>
-                    <a class="nav-item nav-link" href="/testimonials.html">Testimonials</a>
-                    <a class="nav-item nav-link" href="/blog.html">Blog</a>
-                    <a class="nav-item nav-link" href="/about.html">About</a>
+                    <a class="nav-item nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
+                    <a class="nav-item nav-link {% if page.url == '/services.html' %}active{% endif %}" href="/services.html">Services</a>
+                    <a class="nav-item nav-link {% if page.url == '/topics.html' %}active{% endif %}" href="/topics.html">Topics</a>
+                    <a class="nav-item nav-link {% if page.url == '/approach.html' %}active{% endif %}" href="/approach.html">Approach</a>
+                    <a class="nav-item nav-link {% if page.url == '/scenarios.html' %}active{% endif %}" href="/scenarios.html">Scenarios</a>
+                    <a class="nav-item nav-link {% if page.url == '/pricing.html' %}active{% endif %}" href="/pricing.html">Pricing</a>
+                    <a class="nav-item nav-link {% if page.url == '/testimonials.html' %}active{% endif %}" href="/testimonials.html">Testimonials</a>
+                    <a class="nav-item nav-link {% if page.url == '/blog.html' %}active{% endif %}" href="/blog.html">Blog</a>
+                    <a class="nav-item nav-link {% if page.url == '/about.html' %}active{% endif %}" href="/about.html">About</a>
                 </div>
             </nav>
         </div>
@@ -52,7 +52,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-4">
-            <p class="company-title">Cowell<br/>Technical<br/>Training</p>
+            <p class="company-title text-primary">Cowell<br/>Technical<br/>Training</p>
             <img alt="Chris Cowell on a bench" src="assets/img/chris-on-bench-260px.jpg"/>
             <p class="tagline">Painless technical training
                 <br/>
