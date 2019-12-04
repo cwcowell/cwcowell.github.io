@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Typical Clients
+# Training Scenarios
 
 If you're an **individual contributor**, use training to boost performance in your current role, prepare for a new role or responsibility, or move your career in a whole new direction.
 
@@ -10,12 +10,9 @@ If you're a **hiring manager**, consider outsourcing new hire onboarding tasks, 
 
 If you're a **student in a code camp or programming class**, personalized one-on-one support can help you get the most out of your program, whether it's a single session or on-going coaching.
 
-If you have technical training needs not listed here, get in touch!
+Here are some examples of the types of training that can be useful for different roles. There are many other possibilities, and I'm happy to craft a training plan that works for your specific needs.
 
-
-# Sample Roles and Topics
-
-| ***Role*** | ***Sample Training Topics*** |
+| ROLE | SAMPLE TRAINING TOPICS |
 | ----- | -----|
 | Writer | Prepare for a transition from non-technical writing to technical writing by learning **Linux/macOS terminal commands, DITA, Oxygen,** and **Git**. |
 | Manual Tester | Move into a higher-paying test automation role by learning the basics of **Java, object-oriented programming concepts,** and **Selenium.** |
@@ -25,4 +22,4 @@ If you have technical training needs not listed here, get in touch!
 | Documentation | Prepare for your company's new APIs by learning about **REST, `curl`, Postman,** and **REST API documentation** best practices. | 
 | Software Sales Manager | Reduce attrition and increase the effectiveness of your team by training them in **presentation skills** and the company's **REST APIs.**
 | Code Camp Student | Fill in gaps in the instructional material with a patient teacher who goes at your pace, on almost any technical topic.
-{: class="table" }
+{: class="table table-striped" }

@@ -13,7 +13,7 @@ I work with clients to identify the best form and content for their needs.
 
 + One-on-one
 + Small group (up to 12 people)
-+ Large group
++ Large group (up to 150 people)
 
 
 ## Locations

@@ -1,20 +1,38 @@
-<nav class="fixed-nav-bar">
-    <a href="/" {% if page.url=="/" %}style="color: red;" {% endif %}>Home</a>
-
-    <a href="/services.html" {% if page.url=="/services.html" %}style="color: red;" {% endif %}>Services</a>
-
-    <a href="/topics.html" {% if page.url=="/topics.html" %}style="color: red;" {% endif %}>Topics</a>
-
-    <a href="/approach.html" {% if page.url=="/approach.html" %}style="color: red;" {% endif %}>Approach</a>
-
-    <a href="/scenarios.html" {% if page.url=="/scenarios.html" %}style="color: red;" {% endif %}>Scenarios</a>
-
-    <a href="/pricing.html" {% if page.url=="/pricing.html" %}style="color: red;" {% endif %}>Pricing</a>
-
-    <a href="/testimonials.html" {% if page.url=="/testimonials.html" %}style="color: red;" {% endif %}>Testimonials</a>
-
-    
-    <a href="/blog.html" {% if page.url=="/blog.html" %}style="color: red;" {% endif %}>Blog</a>
-
-    <a href="/about.html" {% if page.url=="/about.html" %}style="color: red;" {% endif %}>About</a>
-</nav>
+<!-- static top nav bar -->
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+                <button class="navbar-toggler"
+                        data-target="#navbarNavAltMarkup"
+                        data-toggle="collapse"
+                        type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse"
+                     id="navbarNavAltMarkup">
+                    <div class="navbar-nav ml-auto">
+                        <a class="nav-item nav-link {% if page.url == '/' %}active{% endif %}"
+                           href="/">Home</a>
+                        <a class="nav-item nav-link {% if page.url == '/services.html' %}active{% endif %}"
+                           href="/services.html">Services</a>
+                        <a class="nav-item nav-link {% if page.url == '/topics.html' %}active{% endif %}"
+                           href="/topics.html">Topics</a>
+                        <a class="nav-item nav-link {% if page.url == '/approach.html' %}active{% endif %}"
+                           href="/approach.html">Approach</a>
+                        <a class="nav-item nav-link {% if page.url == '/scenarios.html' %}active{% endif %}"
+                           href="/scenarios.html">Scenarios</a>
+                        <a class="nav-item nav-link {% if page.url == '/pricing.html' %}active{% endif %}"
+                           href="/pricing.html">Pricing</a>
+                        <a class="nav-item nav-link {% if page.url == '/testimonials.html' %}active{% endif %}"
+                           href="/testimonials.html">Testimonials</a>
+                        <a class="nav-item nav-link {% if page.url == '/blog.html' %}active{% endif %}"
+                           href="/blog.html">Blog</a>
+                        <a class="nav-item nav-link {% if page.url == '/about.html' %}active{% endif %}"
+                           href="/about.html">About</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>

@@ -1,2 +1,5 @@
 exclude: ['up_on_the_shelf/', '.idea/']
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
