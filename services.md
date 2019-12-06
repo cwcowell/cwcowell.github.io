@@ -4,9 +4,11 @@ layout: default
 
 # Services
 
-I teach technical subjects to less-technical audiences, especially non-programmer professionals at technical companies. I help career changers, new hires, and anyone who needs to quickly swim, not drown, in deeper technical waters.
+I teach technical subjects to less-technical audiences, especially non-programmer professionals at software companies. I help career changers, new hires, and anyone who needs to quickly swim, not drown, in deeper technical waters. 
 
-I work with clients to identify the best form and content for their needs.
+I also enjoy teaching students who need a little extra support during their code camp or other classes, or who need to quickly catch up on prerequisites.
+
+I work with each client to identify the best form and content for their needs.
 
 
 ## Formats
@@ -25,11 +27,10 @@ I work with clients to identify the best form and content for their needs.
 
 ## Topics
 
-I teach a range of topics covering many different roles and aspects of software development.
-
 + Code literacy
 + QA automation 
 + Documentation tools
 + Software development tools and processes
 
 See a full list of topics [here](topics.html).
+
