@@ -38,11 +38,17 @@ table {
   margin-top: 30px;
 }
 
-.company-title {
+.company-title-1 {
   font-family: "Libre Franklin", "Proza Libre", sans-serif;
-  font-size: 32pt;
   font-weight: 700;
-  line-height: 1.1;
+  font-size: 35pt;
+}
+
+.company-title-2 {
+  font-family: "Libre Franklin", "Proza Libre", sans-serif;
+  font-weight: 700;
+  font-size: 25.5pt;
+  margin-top: -30px
 }
 
 .contact {
