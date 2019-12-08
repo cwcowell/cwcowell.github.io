@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-Cowell Technical Training is a one-man operation: I design the curricula, create training materials, and lead all instruction.
+This is a one-man operation: I design the curricula, create training materials, and lead all instruction.
 
 
 ## Technical Background
