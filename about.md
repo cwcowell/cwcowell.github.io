@@ -2,25 +2,25 @@
 layout: default
 ---
 
-# About
+# About Me
 
 This is a one-man operation: I design the curricula, create training materials, and lead all instruction.
 
 
 ## Technical Background
 
-My interest with computers and programming started at age twelve, when I coded in BASIC and assembly and beta tested Apple II text adventures.
+My interest with computers and programming started at age twelve, when I coded in BASIC and assembly language and beta tested Apple II text adventures.
 
-After studying computer science in college, I worked for eighteen years as a developer and test automator at large and small software and consulting companies. Each of those roles included training and mentoring responsibilities, which were the best parts of my job.
+After studying computer science at Harvard, I worked for eighteen years as a developer and test automator at large and small software and consulting companies. Each of those roles included training and mentoring responsibilities, which were the best parts of my job.
 
-These days, I keep my brain limber by studying machine learning, neural networks, and functional programming.
+These days I keep my brain limber by studying machine learning, neural networks, and functional programming.
 
 
 ## Teaching Background
 
-My love for teaching started in middle school, when I taught programming in Applesoft BASIC to younger students and VisiCalc to their parents.
+My love for teaching began in middle school, when I taught programming to younger students and VisiCalc to their parents.
 
-In philosophy graduate school I refined my teaching approach and presentation strategies by instructing hundreds of undergraduates in logic, writing, and philosophy.
+In philosophy graduate school at Berkeley, I refined my teaching approach and presentation strategies by instructing hundreds of undergraduates in logic, writing, and philosophy.
 
 Since then I've tutored General Motors factory workers in adult literacy, taught test automation to non-programming QA colleagues, and lectured high school students on how to break into the software industry.
 
