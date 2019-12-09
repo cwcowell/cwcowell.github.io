@@ -10,27 +10,15 @@
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
           rel="stylesheet">
 
-    <!-- Google fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&display=swap"
-          rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap"
-          rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Proza+Libre&display=swap"
-          rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:700&display=swap"
-          rel="stylesheet">
-
-    <!-- Favicons -->
-    <link href="/assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-    <link href="/assets/favicons//favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-    <link href="/assets/favicons//favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-    <link href="/assets/favicons//site.webmanifest" rel="manifest">
-    
     <!-- Chris's custom CSS -->
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
           rel="stylesheet">
 
-    <title>Cowell Technical Training</title>
+    {% include fonts.html %}
+    {% include favicons.html %}
+
+    <title>Chris Cowell, technical trainer</title>
+    
     {% seo %}
 </head>
 
@@ -41,7 +29,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-4">
-            {% include left_col_content.html %}
+            {% include left_col.html %}
         </div>
         <div class="col-lg-8">
             {{content}}
@@ -49,16 +37,7 @@
     </div>
 </div>
 
-<!-- Optional JavaScript for Bootstrap -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script crossorigin="anonymous"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-        src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-<script crossorigin="anonymous"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-<script crossorigin="anonymous"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+{% include bootstrap_javascript.html %}
+
 </body>
 </html>
