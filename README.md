@@ -1,3 +1,3 @@
-# Home page for Cowell Technical Training
+# Home page for Chris Cowell, technical trainer.
 
-Painless technical training for less-technical people.
+*Painless technical training for less-technical people.*
