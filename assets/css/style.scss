@@ -1,6 +1,9 @@
 ---
 ---
 
+// syntax coloring theme for Pygments, used by Jekyll
+@import "/assets/css/monokai.css";
+
 body {
   font-family:  Merriweather, serif;
   font-size: 13pt;
@@ -27,7 +30,12 @@ h1 {
 }
 
 h2 {
-  font-size: 16pt;
+  font-size: 20pt;
+}
+
+h3 {
+  font-size: 18pt;
+  margin-bottom: 14px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -63,7 +71,7 @@ table {
 
 .nav-item {
   font-family: "Libre Franklin", "Proza Libre", sans-serif;
-  font-size: 11pt;
+  font-size: 12pt;
   font-weight: 700;
 }
 
