@@ -1,10 +1,12 @@
-exclude: ['.idea/']
-
-tagline: Painless technical training <br/>for less-technical people
-
 description: Christopher Cowell's consulting company, Cowell Technical Training, specializes in preparing non-technical or less-technical people for technical jobs. The company is located in Portland, Oregon.
 
-url: https://www.chriscowell.org
+exclude: ['.idea/']
 
 plugins:
   - jekyll-seo-tag
+
+tagline: Painless technical training <br/>for less-technical people
+
+title: Chris Cowell, technical trainer
+
+url: https://www.chriscowell.org
