@@ -1,21 +1,12 @@
 description: Chris Cowell specializes in preparing non-technical or less-technical people for technical jobs. He is located in Portland, Oregon, but can provide training throughout the Pacific Northwest or, video video conference, anywhere in the world.
 
 exclude: ['.idea/']
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-154566755-1
-    anonymizeIp: false
     
 plugins:
   - jekyll-seo-tag
-  - jekyll-analytics
 
 tagline: Painless technical training <br/>for less-technical people
 
 title: Chris Cowell, technical trainer
 
 url: https://www.chriscowell.org
-
-environment:
-  production

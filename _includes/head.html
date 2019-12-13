@@ -12,10 +12,14 @@
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
           rel="stylesheet">
 
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}</body>
+
     {% include fonts.html %}
     {% include favicons.html %}
 
-    <title>Chris Cowell, technical trainer</title>
+    <title>{{ site.title }}</title>
 
     {% seo %}
 </head>
