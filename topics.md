@@ -4,10 +4,6 @@ layout: default
 
 # Training Topics
 
-The amount of time I spend on each topic depends on how in-depth you need the training to be. The most relevant parts of many topics can be covered in one to three hours.
-
-See [here](approach.html) for more information on my philosophy of effective training, and how that affects training time.
-
 I'm always looking for ways to expand my training repertoire, so if you're interested in a technology, process, or language not listed here, please ask.
 
 
@@ -23,7 +19,9 @@ I'm always looking for ways to expand my training repertoire, so if you're inter
 ## Quality Assurance
 
 + Test automation with **Selenium**
-+ Unit testing in Java, Python, or Ruby with **JUnit, TestNG, unittest,** or **Test::Unit**
++ Unit testing in Java with **JUnit** or **TestNG**
++ Unit testing in Python with **unittest**
++ Unit testing in Ruby with **Test::Unit** or **minitest**
 
 
 ## Documentation and Technical Writing
