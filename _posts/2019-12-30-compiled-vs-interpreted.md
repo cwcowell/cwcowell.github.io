@@ -7,7 +7,7 @@ categories: [Ruby, Java, Python]
 Computer languages are sometimes described as "interpreted" or "compiled." Beginning programmers might wonder what those terms mean, and which type of language they should learn. This post explains the difference and offers advice on whether a beginner should lean in either direction.
 
 
-## Languages vs Programs
+## Languages vs. Programs
 
 As you'll see later, the terms "interpreted" and "compiled" refer not to any some intrinsic property of computer languages, but to how we normally run programs written in those languages. So although claims like "C is a compiled language" or "Ruby is an interpreted language" are common, they're not strictly accurate. Saying that "people usually run programs written in C by using a compiler" or "people usually run programs written in Ruby by using an interpreter" is more accurate. But because these sentences are wordier, people often use misleading shortcut expressions instead.
 
