@@ -164,3 +164,8 @@ To find the first 1000 prime numbers:
     ```bash
     $ ruby Primes.rb 1000
     ```
+
+
+## Further discussion
+
+Please see the rest of this blog for performance-related posts involving this code.
