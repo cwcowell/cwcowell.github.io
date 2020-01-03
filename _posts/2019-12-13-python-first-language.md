@@ -4,7 +4,7 @@ title: "Why Python Should Be Your First Programming Language"
 categories: [Languages, Python]
 ---
 
-When someone asks what computer language they should learn first, I usually point them to <span class="text-primary">**Python**</span>. A first language should meet at least these criteria:
+When someone asks what computer language they should learn first, I usually point them to **Python**. A first language should meet at least these criteria:
 
 + It should be a general-purpose language that a beginner can apply to different sorts of problems, rather than a special purpose language that's only useful for a limited range of problems.
 + It should run on as many operating systems as possible rather than running on just one, so beginning programmers can learn and practice on whatever computer is at hand and can share their work with others regardless of platform.
@@ -42,28 +42,28 @@ Using the criteria above, let's see which languages we can cross off the list.
 
 ### Special purpose languages
 
-<span class="text-primary">**SQL**</span> is only used for driving databases. This is a useful thing to know how to do, and most developers eventually learn the basics of SQL. But it isn't a general-purpose language and makes no sense as a first language.
+**SQL** is only used for driving databases. This is a useful thing to know how to do, and most developers eventually learn the basics of SQL. But it isn't a general-purpose language and makes no sense as a first language.
 
-<span class="text-primary">**PHP**</span> was created to power web pages. For example, when you enter your username and password on a website, it might well be a small PHP program that validates that info and lets you into the website. Since the language is most at home when embedded in web pages or powering a website from a back-end server, it feels like a fish out of water when you pull it out of that environment and try to use it as a general-purpose language. It's ungainly and keeps reminding you that it would really rather be nestled in some warm, cozy HTML.
+**PHP** was created to power web pages. For example, when you enter your username and password on a website, it might well be a small PHP program that validates that info and lets you into the website. Since the language is most at home when embedded in web pages or powering a website from a back-end server, it feels like a fish out of water when you pull it out of that environment and try to use it as a general-purpose language. It's ungainly and keeps reminding you that it would really rather be nestled in some warm, cozy HTML.
 
 
 ### Single-platform languages
 
 Languages that run on lots of different operating systems are more useful than languages that only work on a single OS, for two reasons: you can practice programming on whatever computer is closest to hand, and you can share your work with other people regardless of what computer they use.
  
-<span class="text-primary">**C#**</span> and <span class="text-primary">**Visual Basic .NET**</span> only run on Windows, unless you're willing to go through pretty severe contortions with results that are far from guaranteed. Anyway, C# is awfully close to Java, which runs on anything.
+**C#** and **Visual Basic .NET** only run on Windows, unless you're willing to go through pretty severe contortions with results that are far from guaranteed. Anyway, C# is awfully close to Java, which runs on anything.
 
-<span class="text-primary">**Swift**</span> only runs on iPhones and iPads. If your goal is to write iOS apps, Swift is your best bet. Writing a simple game that runs right on your iPhone can be a pretty exciting way to get your feet wet with programming. But for most people it makes more sense to learn a first language that runs on Windows, macOS, and Linux computers instead of just portable iOS devices.
+**Swift** only runs on iPhones and iPads. If your goal is to write iOS apps, Swift is your best bet. Writing a simple game that runs right on your iPhone can be a pretty exciting way to get your feet wet with programming. But for most people it makes more sense to learn a first language that runs on Windows, macOS, and Linux computers instead of just portable iOS devices.
 
 
 ### Languages that force you to manage memory
 
-The old stalwarts <span class="text-primary">**C**</span> and <span class="text-primary">**C++**</span> give you fine-grained control over the computer and run like greased lightning. But they also make you manually manage memory allocation and deallocation, which is a tedious, fiddly, error-prone task. This is a *huge* source of bugs, and an unnecessary complication for people new to computer programming. Graduate to C or C++ later if you need more control or speed, but learning either as your first language is a surefire path to frustration and headaches.
+The old stalwarts **C** and **C++** give you fine-grained control over the computer and run like greased lightning. But they also make you manually manage memory allocation and deallocation, which is a tedious, fiddly, error-prone task. This is a *huge* source of bugs, and an unnecessary complication for people new to computer programming. Graduate to C or C++ later if you need more control or speed, but learning either as your first language is a surefire path to frustration and headaches.
 
 
 ### Languages that are unnecessarily verbose
 
-For many years <span class="text-primary">**Java**</span> was the standard first language taught in universities. It's decent in that role, and there are certainly worse ways to learn programming. But Java lost some of its luster as a first language as we began to understand how much more effort it takes to do something in Java than it generally does in other languages. To use some specialized vocabulary, Java isn't as "expressive" as languages that can accomplish the same work in fewer lines of code. For example, printing `Hi there!` takes a whopping *five* lines of Java code:
+For many years **Java** was the standard first language taught in universities. It's decent inthat role, and there are certainly worse ways to learn programming. But Java lost some of its luster as a first language as we began to understand how much more effort it takes to do something in Java than it generally does in other languages. To use some specialized vocabulary, Java isn't as "expressive" as languages that can accomplish the same work in fewer lines of code. For example, printing `Hi there!` takes a whopping *five* lines of Java code:
 
 ```java
 class Hi {
@@ -82,7 +82,7 @@ Java was the first language I used professionally and I still have a soft spot f
 
 It's tempting to think *flexibility* in a language -- having lots of ways to do a particular thing -- would be a great thing to look for in a language. It's not! It's easiest to learn programming languages that are opinionated about how programmers should use them. You want to be able to memorize a single command instead of memorizing a range of possibilities. This also makes it easier to recognize what other people are doing in that language when you read their code. This is a huge deal! 
 
-<span class="text-primary">**Ruby**</span> gives you way too many options to program the way you want to, instead of insisting that you adhere to accepted standards. This disqualifies Ruby as a first language. People who love Ruby *really* love Ruby, but I find its refusal to pick one way to do things infuriating.
+**Ruby** gives you way too many options to program the way you want to, instead of insisting that you adhere to accepted standards. This disqualifies Ruby as a first language. People who love Ruby *really* love Ruby, but I find its refusal to pick one way to do things infuriating.
 
 Here's an example. *These snippets all do exactly the same thing.*
 
@@ -114,7 +114,7 @@ Why stop now? Double it again by replacing `==` with `.eql?`.
 
 ### Languages that were designed in ten days
 
-<span class="text-primary">JavaScript</span> got its start as a language to embed in web pages to give them extra functionality. It successfully replaced Flash as the technology of choice to make static web pages dynamic. Through supporting technologies like Node.js (which lets you run JavaScript programs outside of a web browser), JavaScript has branched out in new directions and is now a non-crazy choice for a general-purpose language. If your goal is to become a front-end programmer, it might be the only language you ever need to know.
+JavaScript got its start as a language to embed in web pages to give them extra functionality. It successfully replaced Flash as the technology of choice to make static web pages dynamic. Through supporting technologies like Node.js (which lets you run JavaScript programs outside of a web browser), JavaScript has branched out in new directions and is now a non-crazy choice for a general-purpose language. If your goal is to become a front-end programmer, it might be the only language you ever need to know.
 
 But it's not the best first language to learn.
 
@@ -127,7 +127,7 @@ I could go on about the perils of JavaScript as a first language, but I'll limit
 
 ### And the winner is...
 
-You already know the winner is <span class="text-primary">Python</span>. It might seem like I'm cheating here, considering that Python could have terrible characteristics of its own that would disqualify it just as resoundingly as any of the languages we've already looked at. But I claim that it doesn't. It's not a perfect language (I'm really tired of typing `self`), but it has a ton going for it. Here's how it stacks up to the disqualifying criteria listed above:
+You already know the winner is Python. It might seem like I'm cheating here, considering that Python could have terrible characteristics of its own that would disqualify it just as resoundingly as any of the languages we've already looked at. But I claim that it doesn't. It's not a perfect language (I'm really tired of typing `self`), but it has a ton going for it. Here's how it stacks up to the disqualifying criteria listed above:
 
 + It's a general-purpose language that's been successfully used for robots, games, neural nets, and everything in between. This makes it immediately useful to people exploring computer programming for the first time.
 + It runs on Windows, macOS, Linux, iOS, lots of flavors of Unix, and just about any other platform you can think of. You can learn it on whatever platform you're already comfortable with. Whatever computer you're reading this post on almost certainly has Python installed already (unless it's a phone).
@@ -166,7 +166,7 @@ class Foo:
 
 In my mind, Python is the obvious choice for a first language for almost anyone. The only glaring exceptions are people who learn a first language with a particular job in mind. If you're angling to become a database administrator, by all means start with SQL. If you want to work for a company that operates entirely on Windows, then C# or Visual Basic .NET are sensible places to start. But if you're just curious about programming and want to learn the fundamentals, there's no better way to start than by picking up a Python book, downloading a Python-aware IDE, and jumping in.
 
-There's one other option I should discuss. [Scratch](https://scratch.mit.edu) is a purely graphical language that teaches you to program by dragging and snaping together shapes instead of typing commands. In all honesty, this is a *fantastic* way to learn how to program, and 95% of what you learn with Scratch will apply directly to Python or any of the other languages in the TIOBE list. The problem with Scratch is that it's geared toward kids. Adults might be turned off by the bright colors and graphical approach, thinking that it must be a toy language. They're right in the sense that Scratch isn't used in professional settings because it only runs in a browser, but they're absolutely wrong to think that Scratch is a watered down way to learn about programming. 
+There's one other option I should mention. [Scratch](https://scratch.mit.edu) is a purely graphical language that teaches you to program by dragging and snaping together shapes instead of typing commands. In all honesty, this is a *fantastic* way to learn how to program, and 95% of what you learn with Scratch will apply directly to Python or any of the other languages in the TIOBE list. The problem with Scratch is that it's geared toward kids. Adults might be turned off by the bright colors and graphical approach, thinking that it must be a toy language. They're right in the sense that Scratch isn't used in professional settings because it only runs in a browser, but they're absolutely wrong to think that Scratch is a watered down way to learn about programming. 
 
 If you can get past the kid-focused look and feel, I strongly recommend that novice programmers learn the basics from Scratch and then move on to Python to put those basics into use with a more traditional language. You'll be amazed how much easier it is to learn Python (or any language) if you're already comfortable with Scratch.
  
