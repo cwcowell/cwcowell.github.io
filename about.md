@@ -18,7 +18,7 @@ These days I keep my brain limber by studying machine learning, neural networks,
 
 ## Teaching Background
 
-My love for teaching began in middle school, when I taught programming to younger students and VisiCalc to their parents.
+My love for teaching began in middle school, when I taught programming to students and VisiCalc to their parents.
 
 In philosophy graduate school at Berkeley, I refined my teaching approach and presentation strategies by instructing hundreds of undergraduates in logic, writing, and philosophy.
 
