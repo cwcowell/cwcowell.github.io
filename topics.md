@@ -50,4 +50,4 @@ I'm always looking for ways to expand my training repertoire, so if you're inter
 
 ## Other
 
-+ **Presentation skills**: how to structure an effective talk and deliver it with confidence
++ **Presentation skills**: structuring an effective talk and delivering it with confidence
