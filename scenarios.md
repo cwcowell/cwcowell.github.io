@@ -21,5 +21,5 @@ Here are some examples of the types of training that can be useful for different
 | Product Owner | Reduce miscommunication and expensive rework by learning cutting-edge requirements gathering techniques with **Cucumber, Gherkin,** and **Example Mapping.**
 | Documentation | Prepare for your company's new APIs by learning about **REST, `curl`, Postman,** and **REST API documentation** best practices. | 
 | Software Sales Manager | Reduce attrition and increase the effectiveness of your team by training them in **presentation skills** and the company's **REST APIs.**
-| Code Camp Student | Fill in gaps in the instructional material with a patient teacher who goes at your pace, on almost any technical topic.
+| Code Camp Student | Fill gaps in the instructional material with a patient teacher who goes at your pace, on almost any technical topic.
 {: class="table table-striped" }
