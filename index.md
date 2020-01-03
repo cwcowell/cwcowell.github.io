@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chris Cowell | Home
 ---
 
 # A Better Way to Learn

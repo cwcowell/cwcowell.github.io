@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chris Cowell | Training Topics
 ---
 
 # Training Topics

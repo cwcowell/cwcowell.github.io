@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chris Cowell | About Me
 ---
 
 # About Me

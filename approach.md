@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Chris Cowell | Training Approach
 ---
 
-# My Training Approach
+# Training Approach
 
 **I specialize in training non-technical or less-technical people** working for companies that expect some technical knowledge. This includes writers, UI/UX, sales and marketing, product owners, project managers, HR, and many other non-technical departments of tech companies. 
  
