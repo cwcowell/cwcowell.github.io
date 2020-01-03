@@ -13,4 +13,4 @@ I cover the **most relevant part of each technical topic,** in order not to swam
 
 My students **learn a little, do a little, and teach a little**. After I explain a concept, students can build their understanding by practicing with hands-on exercises. Because teaching is the best way to learn, I often ask them to teach concepts back to me. Combining these three approaches cements understanding better than simply listening to a lecture ever could.
 
-**One-on-one training** is almost always most the successful format. Groups of **six students or fewer** is almost as effective, though usually goes more slowly. Depending on your training goals, I can usually give **larger-group** training if the other formats aren't practical.
+**One-on-one training** tends to be the most successful format. Teaching groups of **eight students or fewer** is almost as effective, though usually goes more slowly. Depending on your training goals, I can usually give **larger-group** training if the other formats aren't practical.
