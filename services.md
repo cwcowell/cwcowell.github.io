@@ -13,8 +13,8 @@ I work with each client to identify the best form and content for their needs.
 
 ## Formats
 
-+ One-on-one
-+ Small group (up to 12 people)
++ 1 on 1
++ Small group (up to 8 people)
 + Large group (up to 150 people)
 
 
