@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Chris Cowell | About Me
+title: Chris Cowell | About
 ---
 
-# About Me
+# About
 
 This is a one-man operation: I design the curricula, create training materials, and lead all instruction.
 
