@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chris Cowell | Blog
+title: Christopher Cowell, LLC | Blog
 ---
 
 # Blog
