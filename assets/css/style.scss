@@ -5,7 +5,7 @@
 @import "/assets/css/railscasts.css";
 
 body {
-  font-family: Merriweather, Georgia, serif;
+  font-family: Merriweather, serif;
   font-size: 13pt;
   line-height: 1.7;
   padding: 10px;
@@ -77,21 +77,21 @@ table {
 }
 
 .tagline {
-  font-family: Merriweather, sans-serif;
+  font-family: "Libre Baskerville", Merriweather, sans-serif;
   font-size: 23px;
   font-style: italic;
-  font-weight: 700;
+  font-weight: 400;
   margin-top: 20px;
   line-height: 1.2;
   color: #212529;
 }
 
 .testimonial {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .testimonial-author {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 #sample-roles-and-topics {
