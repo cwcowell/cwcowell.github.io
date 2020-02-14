@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Training Scenarios
+title: Christopher Cowell, LLC - Training Scenarios
 ---
 
 # Training Scenarios

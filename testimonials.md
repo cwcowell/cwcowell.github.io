@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Testimonials
+title: Christopher Cowell, LLC - Testimonials
 ---
 
 

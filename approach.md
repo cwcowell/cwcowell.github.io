@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Training Approach
+title: Christopher Cowell, LLC - Training Approach
 ---
 
 # Training Approach

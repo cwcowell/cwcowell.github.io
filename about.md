@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | About
+title: Christopher Cowell, LLC - About
 ---
 
 # About

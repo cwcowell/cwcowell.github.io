@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Services
+title: Christopher Cowell, LLC - Services
 ---
 
 # Services

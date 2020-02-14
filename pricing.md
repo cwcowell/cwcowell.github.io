@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Pricing
+title: Christopher Cowell, LLC - Pricing
 ---
 
 # Pricing

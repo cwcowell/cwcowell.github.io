@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Home
+title: Christopher Cowell, LLC - Home
 ---
 
 # A Better Way to Learn

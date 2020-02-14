@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Cowell, LLC | Training Topics
+title: Christopher Cowell, LLC - Training Topics
 ---
 
 # Training Topics
