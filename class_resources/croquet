@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "You challenge the Queen of Hearts to a game of croquet."
+echo "You beat her."
+echo "That was an unwise strategy, for she is not pleased."
+echo "She yells: 'Off with your head!'"
+echo "Fortunately the executioner is busy dealing with a grinning cat that has no body, and can't bother with you."
